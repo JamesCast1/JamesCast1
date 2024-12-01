@@ -37,6 +37,7 @@ Welcome to my GitHub portfolio! I'm a [Your Role, e.g., Software Developer, Data
 
 ## 📈 Certifications
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 
